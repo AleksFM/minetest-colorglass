@@ -34,17 +34,22 @@ place it in minetest/mods/
 Craft recipe:
 
 X X X
+
 X D X
+
 X G X
 
 Where:
 
 X = none
+
 D = Dye
+
 G = Glass node
 
 [mod] Version Changes [colorglass]
 -------------------------------------
 
 0.2 - Fix node attributes to avoid bizarre see-through views
+
 0.1 - First release.
